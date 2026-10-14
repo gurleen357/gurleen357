@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gurleen 👋
 
-<!--
-**gurleen357/gurleen357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Undergraduate Student | Aston University, Birmingham, UK  
+🔐 Interested in: Penetration Testing, Secure Coding, Threat Analysis  
+🚀 Currently building hands-on security projects and preparing for my placement year.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Programming:** Python, Java
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Database & Platforms:** Microsoft Access, XAMPP, PhpMyAdmin, SQL (basic)
+- **Tools:** Microsoft Excel, Notion  
+- **Other:** CAD (basic), Social Media Platforms
+
+
+## 🎯 Goals
+- Strengthen my penetration testing skills  
+- Build more automation tools  
+- Contribute to open-source security projects
+- Develop a strong placement-ready portfolio
+
+## 📫 Contact 
+- Email: gurleenkb1313@gmail.com
+
