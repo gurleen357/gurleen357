@@ -10,6 +10,11 @@
 A beginner-friendly TCP port scanner built in Python using the socket library. Scans ports 1-1024, detects open ports, and teaches core networking concepts.
 - **Link =** https://github.com/gurleen357/python-port-scanner
 
+- **Password Strength Checker**
+A Python tool that analyses a password and rates its strength based on length, character variety, weak password patterns, and dictionary word detection.
+Helps users understand how secure their password is and how to improve it.
+- **Link =** https://github.com/gurleen357/password-strength-checker
+
 ## 🛠️ Skills & Tools
 - **Programming:** Python, Java
 - **Web Technologies:** HTML, CSS, JavaScript  
